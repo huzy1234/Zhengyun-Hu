@@ -1,0 +1,5 @@
+{
+  "name": "PediBGA - Pediatric Blood Gas Analyzer",
+  "description": "A specialized AI assistant for interpreting pediatric and neonatal blood gas analysis using the 6-step method and UABGA consensus guidelines.",
+  "requestFramePermissions": []
+}
